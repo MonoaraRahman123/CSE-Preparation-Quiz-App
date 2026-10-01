@@ -1,0 +1,548 @@
+=== PAGE 28 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 28 of 106) 
+ 
+YEAR-1 TERM-1 B. Sc. ENGINEERING COURSES 
+CSE 1101: Computer Fundamentals 
+Credits: 3.0                                                     Contact Hours: 3L+0P Hrs/Week 
+CSE 1102: Computer Fundamentals Lab 
+Credits: 1.5                                                     Contact Hours: 0L+3P Hrs/ Week 
+ 
+Course Objective: At the end of the course a student is expected to: 
+ Give students an in -depth understanding of why computers are essential 
+components in business, education and society.  
+ Introduce the fundamentals of computing devices and reinforce computer 
+vocabulary, particularly with respect to personal use of computer hardware and 
+software, the Internet, networking and mobile computing. 
+ Provide hands -on use of Microsoft Office 2013 applications Word, Excel, 
+Access and PowerPoint. Completion of the assignments will result in MS 
+Office applications knowledge and skills. 
+ Provide foundational or “computer literacy” curriculum that prepares students 
+for life -long learning of computer concepts and skills. Completion of course 
+fulfills pre-requisite to enroll in other computer science courses required for a 
+certificate, A.A. de gree, and transfer  to the university or to qualify for high 
+demand employment.  
+ 
+Course Outcome: Upon completion of the course, the students will be able to: 
+ 
+CO 1 Bridge the fundamental concepts of computers with the present level of 
+knowledge of the students. 
+CO 2 Familiarize operating systems, programming languages, peripheral 
+devices, number systems, logic circuits, multimedia and internet 
+CO 3 Identify categories of programs, system software and applications. 
+Organize and work with files and folders. 
+CO 4 Recognize various types of networks, network standards 
+CO 5 Understand computer ethics 
+CO 6 Understand cyber security and cyber law  
+ 
+CO 
+No 
+Program Learning Outcomes (PLO) 
+PLO1 
+PLO 2 
+PLO 3 
+PLO 4 
+PLO 5 
+PLO 6 
+PLO 7 
+PLO 8 
+PLO 9 
+PLO 10 
+PLO 11 
+PLO 12 
+CO1 √ √  √         
+CO2 √ √ √          
+CO3 √   √         
+CO4 √   √         
+CO5       √ √    √ 
+CO6        √    √ 
+ 
+=== PAGE 29 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 29 of 106) 
+ 
+Course Content: 
+Course Topics CO 
+Contact 
+Hours 
+(Theory) 
+Contact 
+Hours 
+(Lab) 
+Introduction to Computers; History and 
+development of Computers; Generation of 
+Computers; Types of Computers. 
+CO 1 3 3 
+Basic Units of Computer Hardware; Keyboard; 
+Mouse; Internal structure of CPU; Functions of 
+RAM; ROM and Cache memory; Basic functional 
+mechanism of HDD and CD -ROM; Different 
+types of Monitors; Impact and Non -impact 
+Printers; Scanner; Plotter; Typical Compu ter 
+specifications.  
+Machine language; Assembly language; High 
+level language; Assembler; Translator; Interpreter 
+and Compiler. 
+CO 2 6 6 
+Classifications of software ; System software; 
+Operating system concepts and importance; 
+Components and basic function s of DOS; 
+Windows operating system; Application software 
+and Utility programs; Computer Virus; 
+Application software: text processing (MS -
+WORD; etc); Spread sheet (MS-EXCEL etc). 
+CO 3 12 18 
+Computer networks and its goals; Basic concepts 
+on LAN; MAN; WAN and Internet systems; 
+Internet services; Functions of Modem in Internet. 
+CO 4 6 3 
+Computers in the workplace; Computer crime; 
+Rules of communications; Privacy; Intellectual 
+property. 
+CO 5 9 6 
+Jurisdiction and Cyber Crime; Criminal Justice in 
+Bangladesh and Implications on Cyber Crime; 
+Hacking, Malicious Spreading in Viruses; 
+Password fraud, Cheating; Cyber Pornography; 
+Protection of Copyrights and Intellectual Property 
+right, Unsolicited e-Mail, Defamation, Harassment 
+and e-Mail Abuse, Present Legal Protection. 
+Definition Nature of cyber law, Scope, Utility of 
+Cyber Law; Origin and Development of Cyber 
+Law and Internet; 
+ 
+CO 6 6 6 
+Recommended Books: 
+ 
+1. Deborah G. Johnson ; Computer Ethics 
+2. Sara Baase : Gift of Fire: Social, Legal and Ethical Issues for Computing 
+Technology 
+3. V.Rajaraman : Fundamentals of Computer 
+=== PAGE 30 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 30 of 106) 
+ 
+4. Peter Norton : Computing Fundamentals 
+5. V. D. Dudej: Information Technology & Cyber Laws, Commonwealth Publishers 
+6. Vivck Sood: Cyber Law Simplified, Tata McGraw Hill Publications 
+ 
+CSE 1103: Structured Programming Language 
+Credits: 3.0                                                     Contact Hours: 3L+0P Hrs/Week 
+CSE 1104: Structured Programming Language Lab 
+Credits: 1.5                                                     Contact Hours: 0L+3P Hrs/ Week 
+ 
+Course Objective: At the end of the course a student is expected to: 
+ Introduce the students to computer programming using structured language. 
+ Enhance their analyzing and problem -solving skills and use the same for 
+writing programs using C language. 
+This course is prerequisite of maximum core course of CSE 
+ 
+Course Outcome: Upon completion of the course, the students will be able to: 
+ 
+CO 1 Explain the fundamentals of programming and basic structure of C 
+programming language. 
+CO 2 Compare and apply the appropriate decision making and control 
+statements, arrays and functions to solve computational problems. 
+CO 3 Apply appropriate data structures like pointers, structures, unions, user 
+defined data types, and dynamic memory to solve co mputational 
+problems. 
+CO 4 Compare and apply language constructs and data structures; 
+perform and demonstrate skills and  write report to design, build, and 
+test moderately complex computational problems. 
+ 
+ 
+CO 
+No 
+Program Learning Outcomes (PLO) 
+PLO1 
+PLO 2 
+PLO 3 
+PLO 4 
+PLO 5 
+PLO 6 
+PLO 7 
+PLO 8 
+PLO 9 
+PLO 10 
+PLO 11 
+PLO 12 
+CO1 √ √           
+CO2 √ √ √ √ √        
+CO3 √ √ √ √ √        
+CO4  √ √ √ √ √   √   √ 
+ 
+ 
+Course Content: 
+Course Topics CO 
+Contact 
+Hours 
+(Theory) 
+Contact 
+Hours 
+(Lab) 
+Introduction to computer programming: Algorithm; 
+Writing; debugging and running programs using C 
+CO 1 
+CO 2 9 9 
+=== PAGE 31 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 31 of 106) 
+ 
+compiler. 
+C Basics: Different Data types and their range; 
+Operator and operands and its precedence; 
+Input/Output; Conditional operators; L oops nested 
+structure; Error handling; Built-in functions. 
+Functions and Arrays: Writing & calling of User – 
+defined functions; Recursive functions; Scope of 
+variables; Introduction to one -dimensional arrays; 
+Multi-dimensional arrays and array manipulation. 
+CO 2 
+CO 3 12 12 
+Pointers and Strings: Introduction to pointers; 
+Pointers and array; Pointers and functions; String 
+I/O; String -based built -in functions; String 
+operations; Pointer and string. 
+CO 3 
+CO 4 12 12 
+Files: Introduction to files in C/C++; opening; 
+closing and updating binary and sequential files. 
+Advanced topics: Operations on bits; Register 
+variable; Pre-processors in C. 
+CO 2 
+CO 3 
+CO 4 
+9 9 
+ 
+Recommended Books: 
+ 
+1. E. Balagurusamy: Programming with ANSI C, Tata McGraw Hill 
+2. Byron Gotfried : Programming with C 
+3. Robert Lafore : Programming with C 
+4. Herbert Schildt : Teach yourself C 
+ 
+ 
+MATH 1101: Differential Calculus and Co-Ordinate Geometry 
+Credits: 3.0                 Contact Hours: 3L+0P Hrs/Week 
+ 
+Course Objective: At the end of the course a student is expected to: 
+ Introduce the students to Sketch the plane given by a linear equation 
+ Enhance their analyzing and problem -solving skills the distance between 
+points, planes, and lines in space also recognize and write equ ations for 
+different surfaces and different theorems    
+ 
+Course Outcome: Upon completion of the course, the students will be able to: 
+ 
+CO 1 Understand and appropriately use the technical vocabulary of the topics 
+covered such as Limit; Continuity and differentiability 
+CO 2 Understand and appropriately use the Leibnitz's theorem; Rolle's 
+theorem; Mean value theorems; Taylor's theorem 
+CO 3 Perform the use of co-ordinates axes and its uses geometrically 
+CO 4 Understand and appropriately use the equations of parabola, ellipse and 
+hyperbola in cartesian and polar co-ordinates 
+ 
+=== PAGE 32 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 32 of 106) 
+ 
+CO 
+No 
+Program Learning Outcomes (PLO) 
+PLO1 
+PLO 2 
+PLO 3 
+PLO 4 
+PLO 5 
+PLO 6 
+PLO 7 
+PLO 8 
+PLO 9 
+PLO 10 
+PLO 11 
+PLO 12 
+CO1 √ √           
+CO2 √ √ √          
+CO3  √ √          
+CO4 √ √           
+ 
+ 
+Course Content: 
+Course Topics CO Contact 
+Hours 
+Differential Calculus: Limit; Continuity and differentiability; 
+Differentiation of explicit and implicit function and parametric 
+equations; Significance of derivatives; Differentials; Successive 
+differentiation of various types of functions; 
+CO 1 9 
+Leibnitz's theorem; Rolle's theorem; Mean value theorems; 
+Taylor's theorem in finite and infinite forms; Maclaurin's 
+theorem in finite and infinite forms; Langrange's form of 
+remainders; Cauehy's form of remainder; Expansion of 
+functions by differentiation and integration; Partial 
+differentiation; Euler's theorem; Tangent and Normal; Maxima 
+and Minima; Points of inflection and their applications; 
+Evaluation of indeterminate forms by L'Hospitals rule. 
+ 
+CO 2 12 
+Co-ordinate Geometry:  Transformation of co -ordinates axes 
+and its uses; Equation of conics and its reduction to standard 
+forms; Pair of straight lines; Homogeneous equations of second 
+degree; Angle between a pair of straight lines; 
+CO 3 12 
+Pair of lines joining the origin to the point of intersection of two 
+given curves; circles; System of circles; Orthogonal circles; 
+Radical axis, radical center, properties of radical axes; Coaxial 
+circles and limiting  points; Equations of parabola, ellipse and 
+hyperbola in cartesian and polar co-ordinates. 
+CO 4 9 
+ 
+ 
+Recommended Books: 
+ 
+1. Das and Mukharjee : Differential calculus 
+2. J.Edwards : Differential calculus 
+3.H.H.Ashwith : Analytic geometry of conic systems 
+4. M.L. Khanna : Solid Geometry 
+ 
+ 
+ 
+=== PAGE 33 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 33 of 106) 
+ 
+                                                     PHY 1101: Physics 
+Credits: 3.0                     Contact Hours: 3L+0P Hrs/Week 
+ 
+ 
+Course Objective: At the end of the course a student is expected to: 
+ Give students an in-depth understanding structure of Matter, Atomic Physics 
+ Introduce the fundamentals of Waves and Oscillations and theories of Light. 
+ Provide hands-on use Interference, Diffraction and Polarization  
+ 
+Course Outcome: Upon completion of the course, the students will be able to: 
+ 
+CO 1 Bridge the fundamental concepts of Structure of matter and atomic 
+model 
+CO 2  Learn and real time application of simple harmonic motion, 
+composition of simple harmonic motions 
+CO 3 Identify categories of light sources, Huygens wave the ory, Huygen’s 
+principle and construction, Superposition of light waves. 
+CO 4 Recognize various Diffraction and also by single and double slit and 
+polarization.  
+ 
+CO 
+No 
+Program Learning Outcomes (PLO) 
+PLO1 
+PLO 2 
+PLO 3 
+PLO 4 
+PLO 5 
+PLO 6 
+PLO 7 
+PLO 8 
+PLO 9 
+PLO 10 
+PLO 11 
+PLO 12 
+CO1 √            
+CO2 √            
+CO3 √ √           
+CO4 √ √           
+ 
+Course Content: 
+Course Topics CO Contact 
+Hours 
+Structure of Matter: Structure of matter. Different types of 
+bonds in solids: metallic, van dar waals’; Covalent and Ionic 
+bond, Packing in solids: Inter atomic distances and forces of 
+equilibrium, X-ray diffraction, Bragg’s law. 
+Atomic Physics: Atom models: Thomson atom model, 
+Rutherford atom model, Rutherford scattering formula, 
+Electron orbits, Bohr atom model; Energy levels and spectra; 
+Particle properties of waves. 
+CO 1 9 
+Waves and Oscillations: Oscillations: Simple harmonic 
+motion, Composition of simple harmonic motions and 
+Lissajous’ figures, Damped and Forced oscillations; 
+Resonance; Waves: Wave properties of particle: de Broglie 
+CO 2 12 
+=== PAGE 34 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 34 of 106) 
+ 
+waves, Group velocity, Phase velocity; Travelling and Standing 
+waves; Energy calculation of Traveling and Standing 
+waves;Intensity of waves; Beats; Doppler effect. 
+Theories of Light: Wave theory: Huygens wave theory; 
+Huygen’s principle and construction; Superposition of light 
+waves; Electromagnetic theory; Part icle theory: Newton’s 
+corpuscular theory, Quantum theory of light. 
+Interference: Introduction; Conditions of Interference; 
+Young’s double slit experiment; Fresnel’s biprism; Thin film 
+Interference; Interference due to multiple reflection. 
+CO 3 12 
+Diffraction: Fresnel’s and Fraunhoper diffraction; Diffraction 
+by single and double slit; Diffraction gratings. 
+Polarization: Introduction; Methods of producing polarized 
+light; Polarization by reflection and refraction; Polarization by 
+double refraction; Constrau vtion of Nicol prism; Production 
+and analysis of polarized light; Optical activity; Optics of 
+crystals; Polarimeters. 
+CO 4 9 
+ 
+Recommended Books: 
+ 
+1. B.L. Theraja : Modern Physics 
+2. Kenneth Krane : Modern Physics 
+3. Brijlal : A textbook of Optics 
+4. by J Peatross & Michel ware : Physics of light and optics 
+5. S.P.Puri : Waves & Oscillations 
+ 
+ 
+HUM 1101: Communicative English 
+Credits: 3.0                                                     Contact Hours: 3L+0P Hrs/Week 
+HUM 1102: Communicative English Lab 
+Credits: 0.75                                                 Contact Hours: 0L+3/2P Hrs/Week 
+ 
+Course Objective: At the end of the course a student is expected to: 
+ Heighten their awareness of correct usage of English grammar in writing and 
+speaking 
+ Improve their speaking ability in English both in terms of fluency 
+andcomprehensibility 
+ Give oral presentations and receive feedback on their performance 
+ Increase their reading speed and comprehension of academic articles 
+ Improve their reading fluency skills through extensive reading 
+ Enlarge their vocabulary by keeping a vocabulary journal 
+ Strengthen their ability to write academic papers, essays and summaries using 
+the process approach. 
+Course Outcome: Upon completion of the course, the students will be able to: 
+ 
+CO 1 Review the grammatical forms of English and the use of these forms in 
+=== PAGE 35 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 35 of 106) 
+ 
+specific communicative contexts, which include: class activities, 
+homework assignments, reading of texts and writing 
+CO 2 Develop their ability as critical readers and writers 
+CO 3 Produce a short research paper using the drafting process 
+CO 4 Free hands writing in different form like essay, paragraph, report etc.   
+CO 5 Attain and enhance competence in the four modes of literacy: writing, 
+speaking, reading and listening 
+ 
+CO 
+No 
+Program Learning Outcomes (PLO) 
+PLO1 
+PLO 2 
+PLO 3 
+PLO 4 
+PLO 5 
+PLO 6 
+PLO 7 
+PLO 8 
+PLO 9 
+PLO 10 
+PLO 11 
+PLO 12 
+CO1          √  √ 
+CO2    √     √ √   
+CO3          √  √ 
+CO4         √ √  √ 
+CO5         √ √  √ 
+ 
+Course Content: 
+Course Topics CO 
+Contact 
+Hours 
+(Theory) 
+Contact 
+Hours 
+(Lab) 
+Introduction: Parts of Speech (Changing); 
+Sentence making rules; Different types of 
+sentences; Tense; Right forms of verbs; Verb 
+conjugation. 
+Transformation of sentences:  Different types of 
+sentences; Converting degree; Appropriate 
+preposition; Idioms & Phrase; Voice;  
+Narration;  Correction of sentences; WH 
+Question; Completing sentences; Synonyms and 
+Antonyms. 
+CO 1 12 3 
+English in Communication: Introductions one -
+self; Conversation & Dialogue; Group 
+Discussion; Notations & Functions.  
+Paragraph Writing: Amplification of Ideas; 
+Structure and Classifications; Topic Sentence; 
+Topic Developers; Topic Termination;  Open -
+ended Paragraph; Close-ended Paragraph. 
+CO 2 
+CO 3 9 9 
+Essay Writing: A Hints given Essay; Without 
+hints Essay; Free hand Essay writing on current 
+Issues.  
+Reading Comprehension: Precise writing; 
+Vocabulary building; Synonym & Antonym; 
+Use of words in different Parts of Speech; True- 
+CO 4 12 3 
+=== PAGE 36 ===
+ 
+ 
+(Session: 2020-2021)   Department of Computer Science and Engineering   (Page 36 of 106) 
+ 
+False (Yes/No/ Not given); Fill in the Blanks; 
+Tree Chart, Flow Chart.  
+Business Writing: Agenda; Notice; Memo; 
+Meeting Minutes; Quotation; Tender; Letter 
+Writing: Job application, Resume; Formal & 
+Informal letter; Letter to Newspape r; Report 
+writing: Technical Report, Lab Report, 
+Newspaper Report. 
+Developing Reading Skill: Strategies of reading 
+skimming, scanning, predicting, inferencing; 
+Practicing comprehension from literary and non 
+literary texts. 
+Developing Writing Skill: Sentence variety; 
+Generating sentences; Clarity and correctness of 
+sentences; Linking sentences for paragraphs; 
+Writing paragraphs, essays, reports, formal and 
+informal letters. 
+Developing Listening Skill: Listening to 
+recorded texts, class lectures  and learning to 
+take notes. 
+Developing Speaking Skill: Oral skills including 
+communicative expressions for personal 
+identification, life at home; Giving advice and 
+opinion; Instruction and directions, requests, 
+complains apologies; Describing people and 
+places; Narrating events. 
+CO 5 9 6 
+ 
+Recommended Books: 
+ 
+1. Cambridge ESOL : Cambridge IELTS 1-9 Students Book with Answers 
+2. Philpot, Sarah, Curnick, Lesley : New Headway Academic Skills: Reading, 
+Writingand Study Skill, Oxford University Press ELT 
+3. Martin Hewings : Cambridge Academic English, Cambridge UniversityPress 
+4. Collins Education : Collins English Skills 
+5. John Langan : College Writing Skills 
+ 
+CSE 1150:  Viva-Voce 
+Credits: 0.75                                            Contact Hours: 0L+0P Hrs/Week 
+The viva -voce is designed to attain comprehensive knowledge about the whole 
+semester along with that one can improve his/her attitude.    
+Course Outcome: Upon completion of the course, the students will be able to: 
+ 
+CO 1 The viva-voce is designed to attain comprehensive knowledge about the 
+whole semester along with improvement of his/her communication and 
+attitude. 
